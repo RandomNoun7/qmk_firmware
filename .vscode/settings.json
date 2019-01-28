@@ -13,5 +13,6 @@
         "*.cpp": "cpp",
         "*.hpp": "cpp",
         "xstddef": "c"
-    }
+    },
+    "cSpell.enabled": false
 }
